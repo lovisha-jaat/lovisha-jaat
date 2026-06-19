@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=lovisha-jaat&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
@@ -67,9 +67,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lovisha-jaat&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovisha-jaat&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=lovisha-jaat&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -99,7 +99,7 @@ while(alive)
 ## 🏆 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lovisha-jaat&theme=tokyo-night" />
 </p>
 
 ---
