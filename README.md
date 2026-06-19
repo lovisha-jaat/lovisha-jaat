@@ -41,6 +41,12 @@
 ```
 
 ---
+## 📖 Currently Learning
+
+- 🌳 Advanced DSA
+- 🤖 Machine Learning Basics
+- ⚡ Git & GitHub Workflows
+- 💻 Web Development
 
 ## 🛠️ Tech Toolbox
 
@@ -81,17 +87,32 @@
 </p>
 
 ---
+## 🌐 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/lovisha_jaat/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/lovisha9gj8">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+  </a>
+</p>
 
 ## 🎵 Fun Fact
 
 ```cpp
-while(alive)
+class Lavesha
 {
-    learn();
-    code();
-    sing();
-    improve();
-}
+public:
+    void dailyRoutine()
+    {
+        learn();
+        code();
+        sing();
+        repeat();
+    }
+};
 ```
 
 ---
@@ -103,11 +124,14 @@ while(alive)
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/lovisha-jaat/)">
+  <a href="https://www.linkedin.com/in/lovisha-jaat/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
