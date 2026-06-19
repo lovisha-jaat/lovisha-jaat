@@ -3,11 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;DSA+Learner+in+C%2B%2B+%F0%9F%9A%80;Python+Developer+%F0%9F%90%8D;Exploring+AI+%26+Real-World+Projects+%F0%9F%A4%96;Singer+at+Heart+%F0%9F%8E%A4;Future+Software+Engineer+%E2%9C%A8" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lovisha-jaat&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
 ---
 
 ## 🌸 About Me
