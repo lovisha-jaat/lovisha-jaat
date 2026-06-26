@@ -5,7 +5,7 @@
 </p>
 ## 🌸 About Me
 
-🎓 Second-Year B.Tech Student in Computer Science Engineering
+🎓 Third-year B.Tech Student in Computer Science Engineering
 
 💡 I enjoy turning ideas into projects and solving problems through code.
 
