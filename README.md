@@ -95,7 +95,7 @@
 ## 🎵 Fun Fact
 
 ```cpp
-class Lavesha
+class Lovisha
 {
 public:
     void dailyRoutine()
